@@ -1,0 +1,2 @@
+# SampleShapeEffect
+映像エフェクトからYMM4の図形を使うサンプル
